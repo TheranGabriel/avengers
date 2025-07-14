@@ -46,3 +46,46 @@
 
 - **Lockdown**  
   Cazarrecompensas sin afiliación clara. Aparece en *Age of Extinction* como un villano independiente.
+
+## 📚 Villanos exclusivos de los cómics de Transformers
+
+### 🦾 Decepticons y otros antagonistas poco conocidos
+
+- **Nova Prime**  
+  Antiguo Prime corrompido por el "Dead Universe". En los cómics de IDW, se convierte en un tirano obsesionado con la expansión y el control total.
+
+- **Senator Ratbat**  
+  En Marvel era un cassette vampírico, pero en IDW fue un político manipulador que promovió el sistema de castas en Cybertron.
+
+- **The D.J.D. (Decepticon Justice Division)**  
+  Grupo de élite que castiga a los traidores Decepticons. Incluye a Tarn, Helex, Kaon, Vos y Nickel. Brutales y fanáticos.
+
+- **G.A.X. (Generalized Artificial Xenotype)**  
+  Villano biomecánico introducido en Dreamwave. Un experimento fallido que se volvió contra sus creadores.
+
+- **Bludgeon (versión IDW)**  
+  Aunque aparece en otras continuidades, su versión en IDW es más mística y filosófica, obsesionado con el necromisticismo.
+
+- **Scourge (Shattered Glass)**  
+  En esta línea alternativa, es una versión heroica corrompida por el poder. Su historia solo existe en cómics.
+
+- **Straxus (Marvel)**  
+  Gobernador de Polyhex, cruel y despiadado. Nunca apareció en series animadas ni películas.
+
+- **Thunderwing (Marvel G2)**  
+  Se fusiona con el Matrix y se convierte en una amenaza cósmica. Su historia es exclusiva de los cómics.
+
+- **Jhiaxus (G2 e IDW)**  
+  Científico loco que busca crear una nueva raza de Transformers. Nunca ha aparecido fuera de los cómics.
+
+- **Liege Maximo**  
+  Uno de los 13 Primes originales. En los cómics, es una figura mitológica traidora y manipuladora.
+
+- **Monstructor**  
+  Primer combiner en los cómics. Formado por seis Transformers monstruosos, inestable y extremadamente violento.
+
+- **The Grand Architect**  
+  Villano cósmico en la saga final de IDW. Manipula eventos a escala universal para reconfigurar la realidad.
+
+- **Unicron (versión IDW)**  
+  Aunque es conocido, su versión en los cómics tiene una historia más profunda y filosófica, distinta a la de las películas.
