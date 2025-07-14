@@ -39,3 +39,36 @@
 ### 🧪 Monstructor
 - **Objetivo**: Sembrar caos biológico.
 - **Acción en la Tierra**: Liberado en una ciudad costera, provocó mutaciones en humanos cercanos por radiación cibertroniana.
+
+### 🧠 Flame (Marvel UK)
+- **Objetivo**: Reescribir la historia de Cybertron desde la Tierra.
+- **Acción en la Tierra**: Intentó activar un generador de fusión enterrado en una base abandonada para provocar una explosión que alterara el tejido del espacio-tiempo.
+
+### 🧛‍♂️ Circuit Breaker (Marvel Comics)
+- **Objetivo**: Eliminar a todos los Transformers.
+- **Acción en la Tierra**: Usó tecnología humana para cazar Autobots y Decepticons por igual, culpándolos de la destrucción causada en su país.
+
+### 🧬 Shrapnel (Dreamwave)
+- **Objetivo**: Crear una red de insectoides mecánicos.
+- **Acción en la Tierra**: Infectó zonas rurales con nanobots que convertían insectos en drones espías para los Decepticons.
+
+### 🧠 Tarantulas (Beast Wars comics)
+- **Objetivo**: Manipular el flujo temporal.
+- **Acción en la Tierra**: Intentó usar una anomalía temporal en el Triángulo de las Bermudas para alterar eventos clave en la historia humana.
+
+### 🧪 Devil Z (Transformers: Super-God Masterforce manga)
+- **Objetivo**: Fusionar humanos con Transformers.
+- **Acción en la Tierra**: Secuestró humanos con alta energía vital para convertirlos en híbridos controlados por la energía de la oscuridad.
+
+### 🧠 The Enigma of Combination (IDW)
+- **Objetivo**: Expandir el poder de los combiners.
+- **Acción en la Tierra**: Fue activado por villanos ocultos para provocar fusiones inestables entre Transformers, causando destrucción en zonas urbanas.
+
+### 🧛‍♂️ Thunderclash (Shattered Glass)
+- **Objetivo**: Imponer justicia distorsionada.
+- **Acción en la Tierra**: Persiguió Autobots “corruptos” en ciudades humanas, causando daños colaterales en su cruzada moral.
+
+### 🧠 Flamefeather (Marvel UK)
+- **Objetivo**: Incinerar zonas estratégicas.
+- **Acción en la Tierra**: Atacó refinerías y centrales eléctricas para provocar apagones masivos y caos social.
+
