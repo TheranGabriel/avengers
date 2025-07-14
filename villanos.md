@@ -89,3 +89,10 @@
 
 - **Unicron (versión IDW)**  
   Aunque es conocido, su versión en los cómics tiene una historia más profunda y filosófica, distinta a la de las películas.
+
+## 🧠 B'ghdad
+
+- **Primera y única aparición**: *Transformers: Matrix Quest* (Marvel Comics)
+- **Rol**: Señor del crimen en una historia inspirada en *El Halcón Maltés*
+- **Acción en la Tierra**: Operaba en un entorno noir, involucrado en tráfico de artefactos relacionados con el Matrix.
+- **Curiosidad**: Nunca volvió a aparecer en ningún otro cómic, serie o continuidad. Su nombre y estilo evocan un tono pulp y detectivesco.
