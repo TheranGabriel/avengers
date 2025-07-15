@@ -89,3 +89,30 @@
 
 - **Unicron (versión IDW)**  
   Aunque es conocido, su versión en los cómics tiene una historia más profunda y filosófica, distinta a la de las películas.
+
+## 🧠 Villanos de Transformers con una sola aparición en cómics
+
+### 🔹 Moleculon
+- **Aparición**: *Transformers UK Annual 1991*
+- **Rol**: Científico renegado que intentó descomponer Autobots a nivel molecular.
+- **Curiosidad**: Nunca volvió a aparecer en ninguna continuidad.
+
+### 🔹 Triton
+- **Aparición**: *Transformers UK #235 ("Peace")*
+- **Rol**: Espía Decepticon infiltrado entre los Autobots.
+- **Curiosidad**: Provocó una guerra interna y murió revelando la verdad.
+
+### 🔹 Zeta Supreme
+- **Aparición**: *Transformers: The War Within – The Dark Ages*
+- **Rol**: Líder de una facción neutral durante la guerra civil.
+- **Curiosidad**: Solo aparece en un número como figura política, sin desarrollo posterior.
+
+### 🔹 Lord Imperious Delirious
+- **Aparición**: *Transformers: Generation 2 #5*
+- **Rol**: Entidad alienígena que intentó controlar a los Transformers.
+- **Curiosidad**: Su historia quedó inconclusa tras la cancelación de la serie.
+
+### 🔹 Sureshock (Shattered Glass)
+- **Aparición**: *BotCon 2008 Comic*
+- **Rol**: Mini-Con malvado en universo alternativo.
+- **Curiosidad**: Solo aparece en una escena como parte de un equipo corrupto.
