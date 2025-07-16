@@ -116,3 +116,10 @@
 - **Aparición**: *BotCon 2008 Comic*
 - **Rol**: Mini-Con malvado en universo alternativo.
 - **Curiosidad**: Solo aparece en una escena como parte de un equipo corrupto.
+
+## 🔹 Lord High Regent Trannis
+
+- **Primera y única aparición**: *Transformers UK Annual 1986* (historia: "State Games")
+- **Rol**: Gobernante tiránico de Cybertron antes de la guerra civil
+- **Historia**: Trannis lideró el régimen autoritario que reprimía a los trabajadores y fomentó la desigualdad social. Su brutalidad y desprecio por los derechos de los ciudadanos cibertronianos fueron el catalizador que llevó a Megatron a fundar el movimiento Decepticon.
+- **Curiosidad**: Aunque su impacto histórico es profundo, Trannis solo aparece en esta historia de fondo y nunca fue reutilizado en cómics posteriores, series animadas ni películas.
